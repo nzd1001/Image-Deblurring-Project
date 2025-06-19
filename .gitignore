@@ -1,2 +1,5 @@
-data/
-model_ckp/
+data/*
+!data/.gitkeep
+
+model_ckp/*
+@model_ckp/.gitkeep
