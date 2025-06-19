@@ -5,5 +5,5 @@ This project focus on implementation of a Unet-based model from [paper](https://
 
 ## Result
 The result achieved is 28.85 for PSNR and 0.8668 for SSIM
-
+![Image](https://github.com/user-attachments/assets/64366136-0ef0-42c4-9f5b-d87f308f45c8)
 
